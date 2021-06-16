@@ -14,3 +14,5 @@ Hint: Use various logical conditions based on game knowledge to determine frauds
 Can we predict the finishing position of a player in the game?
 
 Hint: Regression Problem: Train and test a model using regression algorithm to predict the final position of the player at the end of the game. Create a model which predicts players' finishing placement based on their final stats, on a scale from 1 (first place) to 0 (last place).
+
+get dataset from readme 
